@@ -9,7 +9,7 @@ RESTful API sederhana yang dibangun menggunakan Java Spring Boot dengan arsitekt
 - **Containerization**: Docker & Docker Compose
 
 ## 📐 System Architecture
-![Architecture Diagram](./architecture-diagram.png)
+![Architecture Diagram](./diagram.png)
 
 ## 🚀 Cara Menjalankan Project
 1. Clone repository ini:
